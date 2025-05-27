@@ -1,17 +1,17 @@
 {
   "name": "mini-course-api",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "BHCG Tech Team Induction Task 2: Mini Course Content Fetcher",
+  "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "author": "Yashvia",
+  "license": "MIT",
   "dependencies": {
-    "body-parser": "^2.2.0",
-    "express": "^5.1.0",
-    "fs": "^0.0.1-security"
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
   }
 }
