@@ -1,0 +1,21 @@
+{
+    "Week 1": [
+      {
+        "title": "Introduction to Node.js",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=example1"
+      },
+      {
+        "title": "REST API Basics",
+        "type": "article",
+        "url": "https://example.com/rest-api"
+      }
+    ],
+    "Week 2": [
+      {
+        "title": "Express.js Tutorial",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=example2"
+      }
+    ]
+  }
