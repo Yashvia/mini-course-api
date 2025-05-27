@@ -2,8 +2,8 @@ This project implements Task 2: Mini Course Content Fetcher (APIs & Storage). It
 Setup Instructions
 
 Clone the Repository:
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Yashvia/mini-course-api.git
+cd mini-course-api
 
 
 Install Dependencies:Ensure Node.js is installed (download from nodejs.org if needed). Then, run:
